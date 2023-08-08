@@ -1,0 +1,48 @@
+Uri: https://st.ayaka.one/
+File Name: d:\Downloaded Web Sites\st.ayaka.one\index.htm
+Content Type: text/html
+
+Uri: https://st.ayaka.one/apple-touch-icon.png
+File Name: d:\Downloaded Web Sites\st.ayaka.one\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://st.ayaka.one/favicon-16x16.png
+File Name: d:\Downloaded Web Sites\st.ayaka.one\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://st.ayaka.one/favicon-32x32.png
+File Name: d:\Downloaded Web Sites\st.ayaka.one\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://st.ayaka.one/safari-pinned-tab.svg
+File Name: d:\Downloaded Web Sites\st.ayaka.one\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://st.ayaka.one/site.webmanifest
+File Name: d:\Downloaded Web Sites\st.ayaka.one\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://st.ayaka.one/static/css/main.c49c322a.css
+File Name: d:\Downloaded Web Sites\st.ayaka.one\static\css\main.c49c322a.css
+Content Type: text/css
+
+Uri: https://st.ayaka.one/static/js/main.9d2d0395.js
+File Name: d:\Downloaded Web Sites\st.ayaka.one\static\js\main.9d2d0395.js
+Content Type: application/javascript
+
+Uri: https://st.ayaka.one/static/media/ShangShouFangTangTi.4b63e6001b3ba64f627e.woff2
+File Name: d:\Downloaded Web Sites\st.ayaka.one\static\media\ShangShouFangTangTi.4b63e6001b3ba64f627e.woff2
+Content Type: font/woff2
+
+Uri: https://st.ayaka.one/static/media/YurukaStd.e4589185c34a94a462b4.woff2
+File Name: d:\Downloaded Web Sites\st.ayaka.one\static\media\YurukaStd.e4589185c34a94a462b4.woff2
+Content Type: font/woff2
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: d:\Downloaded Web Sites\st.ayaka.one\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+File Name: d:\Downloaded Web Sites\st.ayaka.one\beacon.min.js (1)\v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+Content Type: text/javascript
+
